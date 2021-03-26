@@ -1,0 +1,5 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1616757345733,872,TokenOptain,200,OK,Thread Group 1-1,text,true,,522,189,1,1,https://todo.ly/api/authentication/token.json,872,0,694
+1616757346606,178,post poroy,200,OK,Thread Group 1-1,text,true,,802,251,1,1,https://todo.ly/api/projects.json,178,0,0
+1616757346785,201,borrar Token,200,OK,Thread Group 1-1,text,true,,522,265,1,1,https://todo.ly/api/authentication/token.json,201,0,0
+1616757346986,180,post Item with Token ,200,OK,Thread Group 1-1,text,true,,451,255,1,1,https://todo.ly/api/projects.json,180,0,0
